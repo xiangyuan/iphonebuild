@@ -4,14 +4,14 @@ iphonebuild
 
 ### NOTE
 
-#  if you want install the builded app to you Iphone simulator
-#     you must install the ios-sim command line tool
-#           brew install ios-sim
-#     if you want install debug app to you Iphone device
-#     you must install the ios-deploy tool
-#           git clone https://github.com/phonegap/ios-deploy.git
-#           cd ios-deploy
-#           make install
+  if you want install the builded app to you Iphone simulator
+    you must install the ios-sim command line tool
+           brew install ios-sim
+     if you want install debug app to you Iphone device
+     you must install the ios-deploy tool
+           git clone https://github.com/phonegap/ios-deploy.git
+           cd ios-deploy
+           make install
 
 
 ### build scripts
